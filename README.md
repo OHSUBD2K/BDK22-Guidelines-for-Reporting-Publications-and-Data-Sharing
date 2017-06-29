@@ -34,6 +34,8 @@ Unit 1 Audio: BDK22-1.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 1 Resources: BDK22-1\_resources.pdf
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK22-1/presentation_html5.html)
+
 ### Module Supplemental Materials
 
 References & Resources: BDK22\_Ref.pdf
